@@ -1,6 +1,7 @@
 # Heads-Up-for-Adruino
 
-Created for the tiva C series board with the orbit booster pack. Based on the game Heads Up for android(https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en).
+Created for the tiva C series board with the orbit booster pack. 
+Based on the game Heads Up for android: https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en
 
 Game Summary:
 The game will require a group of 2 to 4 people to
